@@ -1,0 +1,38 @@
+{
+  "name": "yajra/laravel-datatables-compatibility",
+  "description": "Laravel Datatables Compatibility Plugin.",
+  "keywords": [
+    "laravel",
+    "datatables",
+    "compatibility",
+    "api"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arjay Angeles",
+      "email": "aqangeles@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yajra/laravel-datatables-oracle": "8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yajra\\Datatables\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    },
+    "laravel": {
+      "providers": [
+        "Yajra\\Datatables\\CompatibilityServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
