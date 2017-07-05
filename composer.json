@@ -1,6 +1,6 @@
 {
   "name": "yajra/laravel-datatables-compatibility",
-  "description": "Laravel Datatables Compatibility Plugin.",
+  "description": "Laravel DataTables Compatibility Plugin.",
   "keywords": [
     "laravel",
     "datatables",
