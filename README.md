@@ -7,7 +7,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/yajra/laravel-datatables-compatibility.svg)](https://packagist.org/packages/yajra/laravel-datatables-compatibility)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages/yajra/laravel-datatables-compatibility)
 
-This package is a plugin of [Laravel DataTables](https://github.com/yajra/laravel-datatables) for transforming server-side response using [Fractal](https://github.com/thephpleague/fractal).
+This package is a plugin of [Laravel DataTables v8.x](https://github.com/yajra/laravel-datatables) for v7.x backward compatibility.
 
 ## Requirements
 - [PHP >=7.0](http://php.net/)
