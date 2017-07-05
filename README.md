@@ -19,7 +19,7 @@ This package is a plugin of [Laravel DataTables v8.x](https://github.com/yajra/l
 `composer require yajra/laravel-datatables-compatibility:^1.0`
 
 #### Register Service Provider (Optional on Laravel 5.5)
-`Yajra\Datatables\DatatablesServiceProvider::class`
+`Yajra\Datatables\CompatibilityServiceProvider::class`
 
 And that's it! Start building out some awesome DataTables!
 

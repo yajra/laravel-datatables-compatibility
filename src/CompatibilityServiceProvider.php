@@ -4,7 +4,7 @@ namespace Yajra\Datatables;
 
 use Illuminate\Support\ServiceProvider;
 
-class DatatablesServiceProvider extends ServiceProvider
+class CompatibilityServiceProvider extends ServiceProvider
 {
     /**
      * Indicates if loading of the provider is deferred.
