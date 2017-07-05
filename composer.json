@@ -29,7 +29,7 @@
     },
     "laravel": {
       "providers": [
-        "Yajra\\Datatables\\CompatibilityServiceProvider"
+        "Yajra\\Datatables\\DatatablesServiceProvider"
       ]
     }
   },
